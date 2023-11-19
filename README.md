@@ -6,7 +6,7 @@ Nếu mở tool mà nó ko hiện thì khỏi cài
 
 Sau khi mở tool lên xong thì copy key và comment vào nhóm zalo kèm link fb, để mình active nha ^^!
 
-Link tải: https://mmo69.com/---GoLogin_Pro/GoLogin_Pro.1.0.0.1.rar
+Link tải: https://mmo69.com/---GoLogin_Pro/GoLogin_Pro.1.0.0.2.rar
 
 Sau này có update tool thì tải tại đây luôn nha ^^!
 
