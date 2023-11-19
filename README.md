@@ -6,9 +6,8 @@ Nếu mở tool mà nó ko hiện thì khỏi cài
 
 Sau khi mở tool lên xong thì copy key và comment vào nhóm zalo kèm link fb, để mình active nha ^^!
 
-AE nào ko biết chổ mua Proxy thì có thể tham khảo web này, giá rẻ mà xài ngon, load fb nhanh: https://proxy6.net/en/?r=132836
-
-Nên mua loại proxy v4 / socks5
+- AE nào ko biết chổ mua Proxy thì có thể tham khảo web này, giá rẻ mà xài ngon, load fb nhanh: https://proxy6.net/en/?r=132836
+- Nên mua loại proxy v4 / socks5
 
 Link tải: https://mmo69.com/---GoLogin_Pro/GoLogin_Pro.1.0.0.3.rar
 
