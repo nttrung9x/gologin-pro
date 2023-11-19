@@ -10,6 +10,7 @@ Sau khi mở tool lên xong thì copy key và comment vào nhóm zalo kèm link 
 - Nên mua loại proxy v4 / socks5
 
 Link tải: https://mmo69.com/---GoLogin_Pro/GoLogin_Pro.1.0.0.4.rar
+- Khi có bản update, thì ae tải về rồi chép đè vào ver cũ là dùng được info profile cũ nha
 
 Sau này có update tool thì tải tại đây luôn nha ^^!
 
