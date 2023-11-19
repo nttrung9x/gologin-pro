@@ -1,5 +1,7 @@
 Nhóm Zalo: https://zalo.me/g/vrdiem811
 
+- Tool này sử dụng tương tự GoLogin chính chủ, nhưng dùng ko giới hạn profile, có thể nuôi đc mọi thể loại web / tài khoản khác nhau, chứ ko phải chỉ hổ trợ 1 mình fb thôi
+
 Tải về mở tool lên, nếu nó có hỏi gì thì chọn Yes, nó nhảy qua web của microsoft, bạn tải thư viện trên web về cài vô rồi chạy lại tool là được
 
 Nếu mở tool mà nó ko hiện thì khỏi cài
