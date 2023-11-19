@@ -10,7 +10,7 @@ Link tải: https://mmo69.com/---GoLogin_Pro/GoLogin_Pro.1.0.0.1.rar
 
 Sau này có update tool thì tải tại đây luôn nha ^^!
 
-Cách dùng rất đơn giản:
+- Cách dùng rất đơn giản:
 1. Mở tool
 2. Bấm "Tạo profile mới"
 3. Nhập link fb vào
