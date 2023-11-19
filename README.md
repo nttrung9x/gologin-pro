@@ -22,4 +22,9 @@ Cách dùng rất đơn giản:
 9. Bấm Run trên List danh sách để mở trình duyệt
 10. Vào trang "time.gologin.com" để kiểm tra coi Proxy đã chạy đúng hay chưa, nếu chưa thì báo lên nhóm zalo để fix lỗi ^^!
 
+- Về phần Fingerprint thì:
++ Phần info fingerprint sẽ ko trùng, nhưng phần canvas sẽ trùng, cái này do GoLogin nó vậy rồi
++ Mình cũng check kỹ rồi, đã code thuê cho nhiều khách hàng ở rất nhiều dự án rồi, nên ae yên tâm dùng
+
+
 ![MMO69.COM](gologin.PNG)
