@@ -4,7 +4,7 @@ Tải về mở tool lên, nếu nó có hỏi gì thì chọn Yes, nó nhảy q
 
 Nếu mở tool mà nó ko hiện thì khỏi cài
 
-Sau khi mở tool lên xong thì copy key và comment vào đây, mai mình active nha ^^!
+Sau khi mở tool lên xong thì copy key và comment vào nhóm zalo kèm link fb, để mình active nha ^^!
 
 Link tải: https://mmo69.com/---GoLogin_Pro/GoLogin_Pro.1.0.0.1.rar
 
