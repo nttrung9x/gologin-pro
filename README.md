@@ -9,7 +9,7 @@ Sau khi mở tool lên xong thì copy key và comment vào nhóm zalo kèm link 
 - AE nào ko biết chổ mua Proxy thì có thể tham khảo web này, giá rẻ mà xài ngon, load fb nhanh: https://proxy6.net/en/?r=132836
 - Nên mua loại proxy v4 / socks5
 
-Link tải: https://mmo69.com/---GoLogin_Pro/GoLogin_Pro.1.0.0.3.rar
+Link tải: https://mmo69.com/---GoLogin_Pro/GoLogin_Pro.1.0.0.4.rar
 
 Sau này có update tool thì tải tại đây luôn nha ^^!
 
