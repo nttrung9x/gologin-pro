@@ -1,6 +1,6 @@
-```
-AE Vào Nhóm Zalo Để Nhận Key Active Nha ^^!
 
+# AE Vào Nhóm Zalo Để Nhận Key Active Nha ^^!
+```
 Nhóm Zalo: https://zalo.me/g/vrdiem811
 ```
 
@@ -29,7 +29,7 @@ Sau này có update tool thì tải tại đây luôn nha ^^!
 - Câu trả lời là: check uy tín mình rồi hãy dùng, hoặc nếu sợ thì ko dùng nha ae ^^!
 - Mình support bên web captcha69.com từ 2018 tới nay, đồng thời là admin blog mmo69.com và cũng là Vip Member trên mmo4me hoạt động từ 2010 tới nay, có bảo hiểm MMO 500$, lúc trước có làm MOD vài năm trên MMO4ME, nickname: emyeusss7 ^^!
 ```
-- 1 phút quảng cáo: mình có nhận code thuê phần mềm, web, app, game... nha ae ^^!
+# 1 phút quảng cáo: mình có nhận code thuê phần mềm, web, app, game... nha ae ^^!
 ```
 - Cách dùng rất đơn giản:
 1. Mở tool
