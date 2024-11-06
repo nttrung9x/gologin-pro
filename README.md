@@ -74,4 +74,5 @@ Nên mua loại proxy v4 Loại HTTP / HTTPS
 + GoLogin ngon hơn mấy app khác của nước ngoài ở chổ nó pass WebRTC rất ngon
 
 
-![MMO69.COM](gologin.PNG)
+![MMO69.COM](GoLogin_v2.png)
+
