@@ -1,5 +1,5 @@
 
-# AE Vào Nhóm Zalo Để Nhận Key Active Nha ^^!
+# AE Đọc Kỹ Hướng Dẫn Nha ^^!
 
 - Nhóm Telegram: [https://t.me/+GQX5vmnQ444wZTY9](https://t.me/+GQX5vmnQ444wZTY9)
 
