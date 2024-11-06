@@ -27,7 +27,7 @@
 
 4. Và vào đây để thêm key: [https://mmo69.com/---GoLogin-v2.x/add-key.php](https://mmo69.com/---GoLogin-v2.x/add-key.php)
 
-5. Rồi chờ admin Active
+5. Rồi tắt tools và mở lại tools
 
 Link tải: [https://mmo69.com/---GoLogin-v2.x/tools/AntidetectManager.2.1.2.3.rar](https://mmo69.com/---GoLogin-v2.x/tools/AntidetectManager.2.1.2.3.rar)
 
