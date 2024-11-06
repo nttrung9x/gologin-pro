@@ -75,7 +75,7 @@ Nên mua loại proxy v4 Loại HTTP / HTTPS
 
 # Cách update profile v1.0.0.4 sang v2.1.2.3
 + Mở v2 lên, tạo profile, run profile, chờ vài giây rồi tắt
-+ Vào Profile_ALL của v1 đổi tên profile muốn nâng cấp cho giống với profile_ID mới tạo bên v2, xong copy thư mục đó chép đè vào PROFILE_ALL của v2
++ Vào Profile_ALL của v1 đổi tên profile muốn nâng cấp thành PROFILE_DATA, xong tạo 1 thư mục khác tên trùng ID profile của v2, kéo cái thư mục PROFILE_DATA vào thư mục vừa tạo, xong copy thư mục profile đó chép đè vào PROFILE_ALL của v2
 + Xong vào v2 bấm Reload Profile, bấm nút Edit ở profile vừa update, xong bấm Cập Nhập Profile, vậy là xong
 
 + Nhưng mình khuyến khích là tạo profile mới rồi dùng luôn, chứ nếu chuyển như vậy dễ bị lỗi Fingerprint lắm
