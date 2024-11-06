@@ -29,14 +29,13 @@
 
 5. Rồi chờ admin Active
 
-Link tải: [https://mmo69.com/---GoLogin_Pro/GoLogin_Pro.1.0.0.4.rar](https://mmo69.com/---GoLogin-v2.x/tools/AntidetectManager.2.1.2.3.rar)
+Link tải: [https://mmo69.com/---GoLogin-v2.x/tools/AntidetectManager.2.1.2.3.rar](https://mmo69.com/---GoLogin-v2.x/tools/AntidetectManager.2.1.2.3.rar)
 
 # Chú ý: Mình chỉ hổ trợ mỗi bạn 1 key thôi, nhớ nhập đúng thông tin, mình check nếu thấy AE nào không có trong nhóm thì mình không Active đâu nha ^^!
 
-# AE nào ko biết chổ mua Proxy thì có thể tham khảo web này
+# AE nào không biết chổ mua Proxy thì có thể tham khảo web này
 Giá rẻ mà xài ngon, load fb nhanh: [https://proxy6.net/en/?r=132836](https://proxy6.net/en/?r=132836)
-
-# Nên mua loại proxy v4 Loại HTTP / HTTPS
+Nên mua loại proxy v4 Loại HTTP / HTTPS
 
 
 # Sau này có update tool thì tải tại đây luôn nha ^^!
@@ -50,7 +49,7 @@ Giá rẻ mà xài ngon, load fb nhanh: [https://proxy6.net/en/?r=132836](https:
 # Cách dùng rất đơn giản:
 1. Mở tool
 2. Bấm "Tạo profile mới"
-3. Nhập link fb vào
+3. Nhập link fb hoặc link web nào bạn muốn nuôi tài khoản
 4. Nhập proxy vào và chọn type proxy cho đúng
 5. Bấm "Auto Get GEO"
 6. Chỉnh tiếp mấy thông số khác nếu muốn, để mặc định thì canvas sẽ off
