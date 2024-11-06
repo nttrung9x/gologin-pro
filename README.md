@@ -78,6 +78,8 @@ Nên mua loại proxy v4 Loại HTTP / HTTPS
 + Vào Profile_ALL của v1 đổi tên profile muốn nâng cấp cho giống với profile_ID mới tạo bên v2, xong copy thư mục đó chép đè vào PROFILE_ALL của v2
 + Xong vào v2 bấm Reload Profile, bấm nút Edit ở profile vừa update, xong bấm Cập Nhập Profile, vậy là xong
 
++ Nhưng mình khuyến khích là tạo profile mới rồi dùng luôn, chứ nếu chuyển như vậy dễ bị lỗi Fingerprint lắm
++ Vì core trình duyệt v114 nó khác với v129 vài thứ, trên v129 có thêm 1 số thông tin mới, nếu update như thế này thì khả năng lỗi rất cao
 + 
 
 ![MMO69.COM](GoLogin_v2.png)
