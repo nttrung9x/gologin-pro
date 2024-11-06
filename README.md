@@ -35,13 +35,16 @@ Link tải: [https://mmo69.com/---GoLogin-v2.x/tools/AntidetectManager.2.1.2.3.r
 
 # AE nào không biết chổ mua Proxy thì có thể tham khảo web này
 Giá rẻ mà xài ngon, load fb nhanh: [https://proxy6.net/en/?r=132836](https://proxy6.net/en/?r=132836)
+
 Nên mua loại proxy v4 Loại HTTP / HTTPS
 
 
 # Sau này có update tool thì tải tại đây luôn nha ^^!
 
 - Thấy có vài ae cmt hỏi có "botnet" ko ?
+- 
 - Câu trả lời là: check uy tín mình rồi hãy dùng, hoặc nếu sợ thì ko dùng nha ae ^^!
+- 
 - Mình support bên web captcha69.com từ 2018 tới nay, đồng thời là admin blog mmo69.com và cũng là Vip Member trên mmo4me hoạt động từ 2010 tới nay, có bảo hiểm MMO 500$, lúc trước có làm MOD vài năm trên MMO4ME, nickname: emyeusss7 ^^!
 
 # 1 phút quảng cáo: mình có nhận code thuê phần mềm, web, app, game... nha ae ^^!
@@ -61,9 +64,13 @@ Nên mua loại proxy v4 Loại HTTP / HTTPS
 
 # Về phần Fingerprint thì:
 + Phần info fingerprint sẽ ko trùng, nhưng khi sử dụng "Canvas: Noise" và vào trang check của GoLogin thì nó báo "đỏ chét"
++ 
 + Lý do là vì thông số fingerprint canvas chưa có tồn tại trong database của GoLogin
++ 
 + Nhưng dùng vẫn ngon lành bình thường nha AE ^^!
++ 
 + Mình cũng check kỹ rồi, đã code thuê cho nhiều khách hàng ở rất nhiều dự án rồi, nên ae yên tâm dùng
++ 
 + GoLogin ngon hơn mấy app khác của nước ngoài ở chổ nó pass WebRTC rất ngon
 
 
