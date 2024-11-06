@@ -29,7 +29,7 @@
 
 5. Rồi tắt tools và mở lại tools
 
-Link tải: [https://mmo69.com/---GoLogin-v2.x/tools/AntidetectManager.2.1.2.4.rar](https://mmo69.com/---GoLogin-v2.x/tools/AntidetectManager.2.1.2.4.rar)
+Link tải: [https://mmo69.com/---GoLogin-v2.x/tools/AntidetectManager.2.1.2.5.rar](https://mmo69.com/---GoLogin-v2.x/tools/AntidetectManager.2.1.2.5.rar)
 
 # Chú ý: Mình chỉ hổ trợ mỗi bạn 1 key thôi, nhớ nhập đúng thông tin, mình check nếu thấy AE nào không có trong nhóm thì mình không Active đâu nha ^^!
 
