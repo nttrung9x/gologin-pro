@@ -73,6 +73,12 @@ Nên mua loại proxy v4 Loại HTTP / HTTPS
 + 
 + GoLogin ngon hơn mấy app khác của nước ngoài ở chổ nó pass WebRTC rất ngon
 
+# Cách update profile v1.0.0.4 sang v2.1.2.3
++ Mở v2 lên, tạo profile, run profile, chờ vài giây rồi tắt
++ Vào Profile_ALL của v1 đổi tên profile muốn nâng cấp cho giống với profile_ID mới tạo bên v2, xong copy thư mục đó chép đè vào PROFILE_ALL của v2
++ Xong vào v2 bấm Reload Profile, bấm nút Edit ở profile vừa update, xong bấm Cập Nhập Profile, vậy là xong
+
++ 
 
 ![MMO69.COM](GoLogin_v2.png)
 
