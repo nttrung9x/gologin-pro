@@ -51,12 +51,12 @@ Nên mua loại proxy v4 Loại HTTP / HTTPS
 
 # Cách dùng rất đơn giản:
 1. Mở tool
-2. Bấm "Tạo profile mới"
+2. Bấm "Create New Profile"
 3. Nhập link fb hoặc link web nào bạn muốn nuôi tài khoản
 4. Nhập proxy vào và chọn type proxy cho đúng
 5. Bấm "Auto Get GEO"
 6. Chỉnh tiếp mấy thông số khác nếu muốn, để mặc định thì canvas sẽ off
-7. Bấm tiếp "Create New Profile Now"
+7. Bấm tiếp "Tạo Profile"
 8. Quay về menu "Main"
 9. Bấm Run trên List danh sách để mở trình duyệt
 10. Vào trang [https://time.gologin.com/](https://time.gologin.com/) để kiểm tra coi Proxy đã chạy đúng hay chưa, nếu chưa thì báo lên nhóm để fix lỗi ^^!
