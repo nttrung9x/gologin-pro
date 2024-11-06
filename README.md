@@ -17,15 +17,17 @@
 
 - Tool này sử dụng tương tự GoLogin chính chủ, nhưng dùng ko giới hạn profile, có thể nuôi đc mọi thể loại web / tài khoản khác nhau, chứ ko phải chỉ hổ trợ 1 mình fb thôi
 
-Tải về mở tool lên, nếu nó có hỏi gì thì chọn Yes, nó nhảy qua web của microsoft, bạn tải thư viện trên web về cài vô rồi chạy lại tool là được
+# Cách Tải:
 
-Nếu mở tool mà nó ko hiện thì khỏi cài
+1. Tải về mở tool lên, nếu nó có hỏi gì thì chọn Yes, nó nhảy qua web của microsoft, bạn tải thư viện trên web về cài vô rồi chạy lại tool là được
 
-Sau khi mở tool lên xong thì copy key 
+2. Nếu mở tool mà nó ko hiện thì khỏi cài
 
-Và vào đây để thêm key: [https://mmo69.com/---GoLogin-v2.x/add-key.php](https://mmo69.com/---GoLogin-v2.x/add-key.php)
+3. Sau khi mở tool lên xong thì copy key 
 
-Rồi chờ admin Active
+4. Và vào đây để thêm key: [https://mmo69.com/---GoLogin-v2.x/add-key.php](https://mmo69.com/---GoLogin-v2.x/add-key.php)
+
+5. Rồi chờ admin Active
 
 # Chú ý: Mình chỉ hổ trợ mỗi bạn 1 key thôi, nhớ nhập đúng thông tin, mình check nếu thấy AE nào không có trong nhóm thì mình không Active đâu nha ^^!
 
