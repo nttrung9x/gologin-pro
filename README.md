@@ -1,3 +1,7 @@
+<video width="826" height="627" controls>
+  <source src="https://github.com/nttrung9x/gologin-pro/raw/refs/heads/main/HuongDanSuDung.mp4?raw=true" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 # AE Đọc Kỹ Hướng Dẫn Nha ^^!
 
