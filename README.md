@@ -1,7 +1,4 @@
-<video width="640" height="360" controls>
-  <source src="https://github.com/nttrung9x/gologin-pro/raw/main/HuongDanSuDung.mp4" type="video/mp4">
-</video>
-
+![Video](https://img.youtube.com/vi/AK1Z5kAesL0/0.jpg)[Watch video](https://www.youtube.com/watch?v=AK1Z5kAesL0)
 
 # AE Đọc Kỹ Hướng Dẫn Nha ^^!
 
