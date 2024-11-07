@@ -1,8 +1,7 @@
 <video width="640" height="360" controls>
-  <source src="https://github.com/nttrung9x/gologin-pro/blob/main/HuongDanSuDung.mp4?raw=true" type="video/mp4">
+  <source src="https://github.com/nttrung9x/gologin-pro/raw/main/HuongDanSuDung.mp4" type="video/mp4">
 </video>
 
-[![Watch the video](https://i.sstatic.net/Vp2cE.png)]([https://youtu.be/vt5fpE0bzSY](https://github.com/nttrung9x/gologin-pro/blob/main/HuongDanSuDung.mp4?raw=true))
 
 # AE Đọc Kỹ Hướng Dẫn Nha ^^!
 
