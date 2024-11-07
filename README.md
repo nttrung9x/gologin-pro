@@ -1,4 +1,5 @@
-![Video](https://img.youtube.com/vi/AK1Z5kAesL0/0.jpg)[Watch video](https://www.youtube.com/watch?v=AK1Z5kAesL0)
+![Video](https://img.youtube.com/vi/AK1Z5kAesL0/0.jpg)
+[Watch video](https://www.youtube.com/watch?v=AK1Z5kAesL0)
 
 # AE Đọc Kỹ Hướng Dẫn Nha ^^!
 
