@@ -19,7 +19,7 @@
 
 # Cách Tải:
 
-1. Tải về mở tool lên, nếu nó có hỏi gì thì chọn Yes, nó nhảy qua web của microsoft, bạn tải thư viện trên web về cài vô rồi chạy lại tool là được
+1. Tải về mở tool lên ( Nên Mở Bằng Quyền Admin - Chuột Phải Chọn Run As Admin ), nếu nó có hỏi gì thì chọn Yes, nó nhảy qua web của microsoft, bạn tải thư viện trên web về cài vô rồi chạy lại tool là được
 
 2. Nếu mở tool mà nó ko hiện thì khỏi cài
 
