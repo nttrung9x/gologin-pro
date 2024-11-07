@@ -2,6 +2,8 @@
   <source src="https://github.com/nttrung9x/gologin-pro/blob/main/HuongDanSuDung.mp4?raw=true" type="video/mp4">
 </video>
 
+[![Watch the video](https://i.sstatic.net/Vp2cE.png)]([https://youtu.be/vt5fpE0bzSY](https://github.com/nttrung9x/gologin-pro/blob/main/HuongDanSuDung.mp4?raw=true))
+
 # AE Đọc Kỹ Hướng Dẫn Nha ^^!
 
 - Nhóm Telegram: [https://t.me/+GQX5vmnQ444wZTY9](https://t.me/+GQX5vmnQ444wZTY9)
