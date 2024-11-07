@@ -23,7 +23,7 @@
 
 2. Nếu mở tool mà nó ko hiện thì khỏi cài
 
-3. Sau khi mở tool lên xong thì copy key 
+3. Sau khi mở tool lên xong thì sẽ tự bật trang web lên, bạn authen = gmail đã login trước đó vào là được
 
 4. Và vào đây để thêm key: [https://mmo69.com/---GoLogin-v2.x/add-key.php](https://mmo69.com/---GoLogin-v2.x/add-key.php)
 
