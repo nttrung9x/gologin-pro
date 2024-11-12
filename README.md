@@ -87,5 +87,5 @@ Nên mua loại proxy v4 Loại HTTP / HTTPS
 + Vì core trình duyệt v114 nó khác với v129 vài thứ, trên v129 có thêm 1 số thông tin mới, nếu update như thế này thì khả năng lỗi rất cao
 + 
 
-![MMO69.COM](GoLogin_v2.png)
+![MMO69.COM](GoLogin_v2.x.png)
 
