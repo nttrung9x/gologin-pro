@@ -32,7 +32,7 @@
 
 5. Rồi tắt tools và mở lại tools
 
-Link tải: [https://mmo69.com/---GoLogin-v2.x/tools/AntidetectManager.2.1.2.7.rar](https://mmo69.com/---GoLogin-v2.x/tools/AntidetectManager.2.1.2.7.rar)
+Link tải: [https://mmo69.com/---GoLogin-v2.x/tools/AntidetectManager.2.1.2.8.rar](https://mmo69.com/---GoLogin-v2.x/tools/AntidetectManager.2.1.2.8.rar)
 
 Update 2.x to 2.x: Tải về Giải Nén Ra và Chép đè Vào là Được.
 
