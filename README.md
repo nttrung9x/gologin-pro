@@ -34,6 +34,8 @@
 
 Link tải: [https://mmo69.com/---GoLogin-v2.x/tools/AntidetectManager.2.1.2.9.rar](https://mmo69.com/---GoLogin-v2.x/tools/AntidetectManager.2.1.2.9.rar)
 
+Auto Update: [https://mmo69.com/---GoLogin-v2.x/auto_update/Autoupdate.rar](https://mmo69.com/---GoLogin-v2.x/auto_update/Autoupdate.rar)
+
 Update 2.x to 2.x: Tải về Giải Nén Ra và Chép đè Vào là Được.
 
 # Chú ý: Mình chỉ hổ trợ mỗi bạn 1 key thôi, nhớ nhập đúng thông tin, mình check nếu thấy AE nào không có trong nhóm thì mình không Active đâu nha ^^!
