@@ -90,7 +90,7 @@ Nên mua loại proxy v4 Loại HTTP / HTTPS
 + 
 
 # Log Update
-+ v2.1.3.0 - 02-03-2025:
++ v2.1.3.0 - 02 / 03 / 2025:
 + + Fix tắt tools khi tìm không thấy extensions name
   + Fix reload list profile theo nhóm ( groups )
  
